@@ -1,0 +1,4 @@
+
+# Added by pim
+import datetime
+self.release_info = {'comment': None, 'publish_id': 44L, 'product': u'gplinuxrpm', 'gitdate': None, 'name': u'PanGPLinux', 'repository': u'gpl_6_1_1', 'githash': None, 'variant': None, 'meta': None, 'p4change': 1279398L, 'label': None, 'platform': u'any', 'state': 0L, 'version': u'6.1.1', 'flags': u'insecure,app_package', 'rel': 4L, 'branch': u'globalprotect/release/tulip', 'date': datetime.datetime(2023, 3, 29, 15, 28, 39), 'base': None, 'type': u'c', 'id': 4895L}
